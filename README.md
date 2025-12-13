@@ -2,6 +2,9 @@
 
 **RAIOT_MQTT** is the official Arduino library for the **[RAIOTerm.cc IoT Platform](https://raioterm.cc)**. 
 <img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/a122963a-ca2b-46a8-9b80-5aeeebdc54b1" />
+<img width="1914" height="975" alt="image" src="https://github.com/user-attachments/assets/80404820-abae-4247-a449-bc971b3267dc" />
+<img width="1909" height="977" alt="image" src="https://github.com/user-attachments/assets/6d136ea8-756a-4329-b9f3-37ed10fe1c4d" />
+<img width="1917" height="977" alt="image" src="https://github.com/user-attachments/assets/8713c151-d495-4681-8366-be8d73a9b24d" />
 
 It wraps `PubSubClient` and `WiFiClientSecure` to simplify sending and receiving data using the **RAIOT Protocol** (`[FEND][ID]:[VAL][FEND]`). It automates connection management (WiFi & MQTT auto-reconnect), packet framing, and data parsing, allowing you to focus on your sensor logic.
 
